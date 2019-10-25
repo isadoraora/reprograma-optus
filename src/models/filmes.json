@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "Título": "Coringa",
+        "Sinopse": "Assassinatos cometidos pelo Arthur Fleck, palhaço conhecido como o Coringa",
+        "DataLancamento": "03/10/2019",
+        "DuracaoMinuto": 122,
+        "Genero": "Drama"
+    },
+    {
+        "id": 2,
+        "Título": "Malévola",
+        "Sinopse": "Atrito entre Malévola e demais seres mágicos no jantar de celebração entre reinos",
+        "DataLancamento": "17/10/2019",
+        "DuracaoMinuto": 119,
+        "Genero": "Fantasia , Aventura"
+    },
+    {
+        "id": 3,
+        "Título": "Zumbilândia",
+        "Sinopse": "Sobreviventes ao ataque Zumbi seguem em busca de novos lugares para habitação e sobrevivência",
+        "DataLancamento": "24/10/2019",
+        "DuracaoMinuto": 118,
+        "Genero": "Comédia, Terror"
+    },
+    {
+        "id": 4,
+        "Título": "Angry Birds 2",
+        "Sinopse": "Red e seus amigos dedicam a vida a proteger a Ilha dos Pássaros dos contantes ataques vindos da Ilha dos Porcos. Entretanto, quanto uma terceira ilha surge e começa a atacá-los, Leonardo, o rei dos porcos, decide procurar seu arquinimigo em busca de uma trégua para que, juntos, possam enfrentar a ameaça em comum.",
+        "DataLancamento": "03/10/2019",
+        "DuracaoMinuto": 97,
+        "Genero": "Animação, Comédia"
+    },
+    {
+        "id": 5,
+        "Título": "Projeto Gemini",
+        "Sinopse": "Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.",
+        "DataLancamento": "10/10/2019",
+        "DuracaoMinuto": 117,
+        "Genero": "Ação, Ficção Ciêntífica"
+    },
+    {
+        "id": 6,
+        "Título": "Abominável",
+        "Sinopse": "Shanghai, China. Yi (Chloe Bennet) é uma adolescente que, certo dia, descobre que um yeti está no telhado do prédio em que ela mora. A partir disso, ela e seus colegas passam a chamar a criatura mística de Everest e, ao criarem laços com o animal, decidem levá-lo até sua família, que está no topo do planeta. Porém, os três amigos terão que conseguir despistar o ganancioso Burnish (Eddie Izzard) e a zoóloga Dra. Zara (Sarah Paulson), que querem pegar o yeti a qualquer custo.",
+        "DataLancamento": "26/09/2019",
+        "DuracaoMinuto": 97,
+        "Genero": "Aventura, Comédia"
+    }
+]
