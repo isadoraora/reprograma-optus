@@ -12,7 +12,8 @@ exports.getById = (req, res) => {
     }
     res.status(200).send(filmes.find(filme => filme.id == id))
 }
+
 exports.getGenero = (req, res) => {
-    const nomeGen = req.params.nome
-    res.status(200).send(filmes.filter(filme => filme.Genero == nomeGen))
+    const nomeGen = req.params.buscar;
+    res.status(200).send(filmes.filter(filme => filme.Genero.indexOf(nomeGen) > -1))
 }

@@ -4,7 +4,7 @@ const controller = require('../controllers/filmesController')
 
 router.get('/', controller.get)
 router.get('/:id', controller.getById)
-router.get('/:genero', controller.getGenero)
+router.get('/genero/:buscar', controller.getGenero)
 
 
 module.exports = router;
